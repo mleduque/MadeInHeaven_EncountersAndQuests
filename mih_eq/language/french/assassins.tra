@@ -1,49 +1,49 @@
-@0    = ~Ah, <CHARNAME> ! Alors vous êtes arrivé jusqu'ici. Pour être honnête, je ne pensais pas que vous y arriveriez. Oh et bien, ça veut dire que le prix sur votre tête est pour nous maintenant !~
-@1    = ~Plus d'assassins. Combien d'entre vous pensez-vous que j'ai tué jusqu'à présent ?~
-@2    = ~Attendez ! Qui que ce soit qui vous paie, je paierai plus !~
-@3    = ~S'il vous plaît, ne me tuez pas !~
-@4    = ~SILENCE ! Ces idiots étaient faibles !~
-@5    = ~Bien essayé, <CHARNAME>. Mais comme vous le voyez, mes gars ont tout compris.~
-@6    = ~Eh bien, <CHARNAME>, j'admets que j'étais inquiet quand j'ai appris que vous étiez notre cible, mais il semble que vous n'êtes rien d'autre qu'un faible. Il n'y aura pas de gardes ici pour vous sauver la peau !~
-@7    = ~Allez les gars, attrapez-les !~
-@8    = ~Euh, chef, ils marquent un point là. Tu te souviens de Tarnesh et Neira ?~
-@9    = ~HA ! Je doute que vous ayez autant d'or !~
-@10   = ~Hé, chef, on a un implorant ! On peut les faire supplier un peu plus ?~
-@11   = ~Bien sûr, chef !~
-@12   = ~Et Nimbul aussi ! Je veux pas déjà mourir, chef !~
-@13   = ~Ouais ! Et puis, si on vous tue, on aura votre or de toute façon !~
-@14   = ~Oh ! Oh ! Faites-les se mettre à genoux !~
-@15   = ~Comme tu veux, chef !~
+@0    = ~Ah, <CHARNAME> ! Vous êtes parvenu jusqu'ici. Pour être honnête, je ne pensais pas que vous y parviendriez. Eh bien, ça juste dire que la prime pour votre ?ur votre tête est pour nous !~
+@1    = ~Encore des assassins. Savez-vous combien d'entre-vous j'ai tués jusqu'à présent ?~
+@2    = ~Attendez ! Je paierai plus que ceux qui vous paient !~
+@3    = ~Pitié, ne me tuez pas !~
+@4    = ~TAISEZ-VOUS ! Ces idiots étaient faibles !~
+@5    = ~Bien essayé, <CHARNAME>. Mais comme vous voyez, les gamins ont déjà tout deviné.~
+@6    = ~Eh bien <CHARNAME>, je dois admettre que, quand j'ai su que vous étiez la cible, j'étais inquiet. Mais on dirait bien que vous n'êtes qu'une mauviette. Ici, aucun garde ne viendra sauver votre peau !~
+@7    = ~Allez les enfants, attrapez-les !~
+@8    = ~Euh, chef ! Ils n'ont pas tort. Tu te souviens de Tarnesh et de Neira ?~
+@9    = ~Ah ! Ça m'étonnerait que vous ayez assez d'or pour ça !~
+@10   = ~Oh... Chef, on a un pleureur ! On peut les faire pleurer encore un peu ?~ ~Oh... Chef, on a une pleureuse ! On peut les faire pleurer encore un peu ?~
+@11   = ~Bien sûr, chef !~
+@12   = ~Et Nimbul aussi ! J'veux pas mourir tout de suite, chef !~
+@13   = ~Ouais ! Et puis, si on vous tue, on aura votre or de toute façon !~
+@14   = ~Oh ! Oh ! Fais les se prosterner !~
+@15   = ~Comme tu veux, chef !~
 @16    = ~Drikx,
 
 
-Je vous écris car vos services sont nécessaires. Votre cible est un jeune <PRO_RACE> nommé <CHARNAME>. Vous devez le traquer et le tuer ainsi que tous ceux qui voyagent avec lui.
+Je vous écris parce que vos services sont requis. Votre cible est un jeune <PRO_MALEFEMALE> <PRO_RACE> du nom de <CHARNAME>. Vous devez pourchasser et tuer <CHARNAME> ainsi que tous ceux qui voyagent à ses côtés.
 
-Ne le sous-estimez pas, il est très compétent et a déjà déjoué plusieurs autres tentatives d'assassinat. Attendez-vous à la résistance d'un groupe bien préparé et lourdement armé.
+Ne le sous-estimez pas, il est très compétent et a déjà déjoué plusieurs autres tentatives d'assassinat. Attendez-vous à une confrontation avec un groupe bien préparé et lourdement armé.
 
-<CHARNAME> se dirigera très probablement vers Bois Manteau, c'est là que vous devriez tendre votre embuscade. Si vous revenez avec la preuve de sa mort, vous serez payé 1 500 pièces d'or.
-
-
-S.~~Drikx,
+<CHARNAME> va vraisemblablement se diriger vers Bois-Manteau, vous devriez y préparer votre embuscade. Si vous revenez avec la preuve de votre réussite, vous recevrez 1 500 pièces d'or.
 
 
-Je vous écris car vos services sont nécessaires. Votre cible est une jeune <PRO_RACE> nommée <CHARNAME>. Vous devez la traquer et la tuer ainsi que tous ceux qui voyagent avec elle.
+S.~ ~Drikx,
 
-Ne la sous-estimez pas, elle est très compétente et a déjà déjoué plusieurs autres tentatives d'assassinat. Attendez-vous à la résistance d'un groupe bien préparé et lourdement armé.
 
-<CHARNAME> se dirigera très probablement vers Bois Manteau, c'est là que vous devriez tendre votre embuscade. Si vous revenez avec la preuve de sa mort, vous serez payé 1 500 pièces d'or.
+Je vous écris parce que vos services sont requis. Votre cible est une jeune <PRO_MALEFEMALE> <PRO_RACE> du nom de <CHARNAME>. Vous devez pourchasser et tuer <CHARNAME> ainsi que tous ceux qui voyagent à ses côtés.
+
+Ne la sous-estimez pas, elle est très compétente et a déjà déjoué plusieurs autres tentatives d'assassinat. Attendez-vous à une confrontation avec un groupe bien préparé et lourdement armé.
+
+<CHARNAME> va vraisemblablement se diriger vers Bois-Manteau, vous devriez y préparer votre embuscade. Si vous revenez avec la preuve de votre réussite, vous recevrez 1 500 pièces d'or.
 
 
 S.~
 @17   = ~Drikx~
 @18   = ~Gnung~
 @19   = ~Strok~
-@20   = ~Hey Blahr, regarde ça. Quelques rats ont rampé hors de leur trou !~
-@21   = ~Ooh, T'as raison Oobah ! On les écrase ?~
-@22   = ~C'est pour ça que le fils du Meurtrier nous paie.~
-@23   = ~Et en plus, toute cette attente m'a donné faim !~
-@24   = ~Alors, on les écrase, et on les fait rôtir pour les manger ?~
-@25   = ~C'est le plan ! Maintenant on va se les faire, soeurette !~
-@26   = ~Je suis avec toi, Oobah !~
+@20   = ~Hé Blahr, regarde-ça. Des rats ont rampé hors de leur tanière !~
+@21   = ~Oh, c'est vrai Oobah ! Tu crois qu'on devrait les écraser ?~
+@22   = ~Ben, c'est pour ça que le fils du Meurtre nous paie.~
+@23   = ~Et puis toute cette attente m'a donné faim !~
+@24   = ~Alors on les écrase, on les rôtit et on les mange ?~
+@25   = ~C'est le plan ! Allez, on les attrape !~
+@26   = ~Je viens avec toi, Oobah !~
 @27   = ~Oobah~
 @28   = ~Blahr~

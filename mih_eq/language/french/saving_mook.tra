@@ -1,0 +1,15 @@
+@0    = ~Tâches confiées par Aran pour obtenir l'aide des Voleurs de l'Ombre
+
+J'ai trouvé Mook sur les quais, elle a vu un homme passer plusieurs fois en surveillant l'endroit. Lorsqu'il est revenu, elle l'a défié... et il a essayé de la tuer. Nous avons vaincu cet homme... ou cette chose... Il s'est transformé en brume sous nos yeux et nous a maudits en s'enfuyant.
+
+Nul doute que ceci doit faire partie des « événements » que je dois signaler à Aran dans la matinée.~
+@1    = ~Je vois. Je suis content que vous ayez pu la sauver, c'est uen amie. Je vois que j'avais raison de compter sur votre aide pour éviter qu'il y ait des victimes. Bon travail, <CHARNAME>.~
+@2    = ~Ça s'est passé comme prévu. Ils ont essayé de tuer Mook mais j'ai réussi à la sauver.~
+@3    = ~Ils ont attaqué, et c'était beaucoup plus dangereux que prévu ! Je n'ai pu sauver Mook que de justesse !~
+@4    = ~Mook est en vie et la cargaison est intacte. Maintenant je veux mon dû.~
+@5    = ~...c'est passé bien trop près à mon goût. Merci, <CHARNAME>.~
+@6    = ~Il n'y a pas de quoi. Vous connaissiez ce type ?~
+@7    = ~Je vous en prie....  Vous connaissiez cette personne ?~
+@8    = ~J'ai fait ce pour quoi je suis venu. Vous connaissiez cette personne ?~
+@9    = ~Hmm, je crois que je l'ai vu une ou deux fois à la Guilde, mais il avait une apparence moins... sauvage. Je n'ai pas de nom par contre.~
+@10   = ~De toute façon, vous m'avez sauvée et je ne l'oublierai pas. Vous devriez aller tout raconter à Aran. Tout ira bien pour moi maintenant.~

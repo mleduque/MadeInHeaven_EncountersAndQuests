@@ -1,30 +1,30 @@
-@0    = ~Ah, <CHARNAME>. Je pensais bien que vous vous montreriez ici tôt ou tard. Pour le meilleur ou pour le pire, il semble que vous soyez destiné à entrer en conflit avec mon frère.~~Ah, <CHARNAME>. Je pensais bien que vous vous montreriez ici tôt ou tard. Pour le meilleur ou pour le pire, il semble que vous soyez destinée à entrer en conflit avec mon frère.~
-@1    = ~Son repaire se trouve à l'est d'ici, dans les anciennes mines du clan Orothiar. Je crois que vous trouverez ce que vous cherchez là-bas. Mais soyez prudent, il a rassemblé de nombreux alliés et hommes de main autour de lui.~~Son repaire se trouve à l'est d'ici, dans les anciennes mines du clan Orothiar. Je crois que vous trouverez ce que vous cherchez là-bas. Mais soyez prudente, il a rassemblé de nombreux alliés et hommes de main autour de lui.~
-@2    = ~J'aurais aimé avoir la force de voir la justice rendue. Mais je n'ai pas su saisir ma chance quand je l'avais. Il semblerait que vous soyez mon dernier espoir pour arrêter ce mal.~
-@3    = ~Je ne suis pas un assassin, mais si votre frère est aussi mauvais que vous le prétendez, je veillerai à ce que justice soit rendue.~~Je ne suis pas une assassin, mais si votre frère est aussi mauvais que vous le prétendez, je veillerai à ce que justice soit rendue.~
-@4    = ~Je n'aime pas faire le sale boulot pour vous, mais j'allais mettre en déroute cet endroit maléfique de toute façon, alors je suppose que j'en suis.~
-@5    = ~N'osez pas intervenir, il est à moi !~
-@6    = ~Il semble que mon frère vous ait fait du tort à vous aussi. Ce n'est pas une surprise. Je ne sais pas si c'est la justice ou la vengeance qui vous anime, et je suppose qu'en fin de compte cela n'a pas d'importance.~
-@7    = ~Voilà, j'ai préparé ces parchemins pour vous. J'espère qu'ils vous aideront à survivre assez longtemps là-dedans pour faire ce qui doit être fait.~
+@0    = ~Ah, <CHARNAME>. Le pensais bien que vous finiriez par arriver ici. On dirait que, pour le meilleur ou pour le pire, vous êtes destinés en entrer en conflit avec mon frère.~
+@1    = ~Son repaire se trouve à l'est d'ici, dans les profondeurs des anciennes mines du clan Orothiar. Je pense que vous y trouverez ce que vous cherchez, mais soyez prudent. Il a rassemblé autour de lui de nombres alliés et hommes de main.~
+@2    = ~Je souhaiterais être assez fort pour m'assurer que justice soit faite, mais je n'ai pas agi quand j'en ai eu la chance. On dirait que vous êtes ma dernière chance de mettre fin à ses méfaits.~
+@3    = ~Je ne suis pas un assassin, mais si votre frère est aussi maléfique que vous le prétendez, je ferai en sorte que justice soit rendue.~
+@4    = ~Ça ne me plaît pas de faire votre sale boulot, mais je comptais fouiller cet endroit maléfique de toute façon, alors je dirais que ça me va.~
+@5    = ~N'essayer même pas d'intervenir, il est pour moi !~
+@6    = ~On dirait que mon frère vous a lésé, vous aussi. Cela ne me surprend pas. Je ne sais pas si vous êtes guidé par la justice ou par la vengeance, et en fin de compte ce n'est pas important.~ ~On dirait que mon frère vous a lésée, vous aussi. Cela ne me surprend pas. Je ne sais pas si vous êtes guidée par la justice ou par la vengeance, et en fin de compte ce n'est pas important.~
+@7    = ~Tenez, j'ai préparé ces parchemins pour vous. J'espère qui vous permettront de survivre assez longtemps pour que vous fassiez ce qui doit être fait.~
 @8    = ~La détresse du chirurgien
 
-Aujourd'hui, j'ai encore rencontré le Chirurgien, au fin fond de la forêt de Boismanteau. Il m'a dit que son frère maléfique avait une sorte de repaire, apparemment au fond d'une ancienne mine qui appartenait autrefois aux nains du clan Orothiar. Ça signifie probablement que son frère travaille pour le Trône de Fer. Le chirurgien m'a prévenu que son frère avait rassemblé un grand nombre d'hommes de main et que je devais m'attendre à une forte résistance, puis il m'a donné quelques parchemins de soins pour nous aider à rester en vie. J'espère vraiment que ça sera suffisant...~
-@9    = ~J'ai fait ce que je pouvais pour vous, maintenant mon voyage de pénitence doit continuer. Mais avant que je parte, avez-vous besoin de soins ?~
-@10   = ~Bien sûr, nous aurions besoin de votre aide. Ces bois n'ont pas été tendres avec nous.~
-@11   = ~Merci, mais tout va bien pour le moment.~
-@12   = ~Très bien, ne bougez pas et laissez-moi faire.~
-@13   = ~Alors je vous dis adieu pour le moment, même si j'ai le sentiment que nous nous reverrons.~
-@14   = ~Ah, <CHARNAME>. J'espérais vous rencontrer par ici.~
-@15   = ~Alors que je descendais le long de la rivière, le courant a commencé à charrier des cadavres. L'un d'entre eux s'est échoué sur le rivage à quelques centaines de mètres devant moi; c'était celui de mon frère. Karma ou destin cruel, je ne sais pas.~
-@16   = ~Qu'avez-vous fait ?~
-@17   = ~J'espère que vous l'avez brûlé sur un bûcher ?~
-@18   = ~S'il vous plaît, dites-moi que vous ne l'avez pas ressuscité ! ?~
-@19   = ~J'ai décidé de lui donner un enterrement décent. Je me suis dit que je lui devais au moins ça, et une partie de moi craignait qu'il puisse aussi revenir en tant que mort-vivant si je ne le faisais pas. Son mal ne devrait jamais renaître.~
-@20   = ~J'étais enclin à le faire en fait. Mais j'ai entendu beaucoup trop d'histoires de sorciers maléfiques ressuscitant d'entre les morts sous une forme effroyable. Alors finalement, je n'ai pas pu, et je l'ai enterré à la place.~
-@21   = ~Ciel non ! Même si c'est mon frère, je ne serai pas responsable du retour de son mal dans notre monde. J'ai enterré le corps et pratiqué des rites pour m'assurer qu'il ne se relèvera pas.~
-@22   = ~Il devrait reposer en paix maintenant, du moins aussi facilement qu'un homme aussi maléfique que lui peut le faire. J'espère que son âme sera épargnée par les horreurs des plans inférieurs, mais c'est aux dieux d'en décider.~
-@23   = ~Pendant que je pratiquais les rites, j'ai trouvé une petite pochette cachée sur son corps. Elle contenait ces pierres précieuses, sans doute obtenues grâce à une autre de ses mauvaises actions. Je voudrais qu’elles soient à vous, car vous êtes l'une des personnes les plus nobles que j'ai rencontrées. Puissent-elles vous aider dans votre quête.~
-@24   = ~Eh bien, même si ses mauvaises habitudes ont pris fin, mon voyage de pénitence doit continuer. Je vous dis adieu, <CHARNAME>.~
+Aujourd'hui, j'ai rencontré à nouveau le chirurgien dans les profondeurs de Bois-Manteau. Il m'a indiqué que son frère malfaisant y dispose d'un repaire, apparemment tout au fond d'une ancienne mine qui auparavant appartenait aux nains du clan Orothiar. Cela signifie que son frère travaille probablement pour le Trône de Fer. Le chirurgien m'a prévenu que son frère a rassemblé de nombreux hommes de mains et que je devais m'attendre à une forte résistance. Il m'a ensuite donné des parchemins de soin pour nous aider à survivre dans la mine. J'espère vraiment que ce sera suffisant...~
+@9    = ~J'ai fait ce que je pouvais pour vous, maintenant je dois poursuivre mon voyage de pénitence. Mais avant que je parte, avez-vous besoin de soins ~
+@10   = ~Votre aide serait la bienvenue. Ces bois n'ont pas été tendres avec nous.~
+@11   = ~Merci, mais nous allons bien pour le moment.~
+@12   = ~Très bien, ne bougez pas, laissez-moi faire mon travail.~
+@13   = ~Dans ce cas, je vous dis au revoir, même si j'ai le sentiment que nous nous rencontrerons à nouveau.~
+@14   = ~Ah, <CHARNAME>. J'espérais vous croiser ici.~
+@15   = ~Alors que je voyageais le long de la berge, le courant s'est mis à porter des corps. L'un d'entre eux s'est échoué à quelques dizaines de mètres de moi. C'était celui de mon frère. Karma ou destin cruel, je ne saurais dire.~
+@16   = ~Qu'avez-vous fait ?~
+@17   = ~J'espère que vous l'avez brûlé sur un bûcher ?~
+@18   = ~Surtout ne me dites pas que vous l'avez ressuscité ?~
+@19   = ~J'ai décidé de lui offrir une sépulture convenable. J'ai pensé que je lui devais au moins ça et une partie de moi craignait qu'il ne se relève sous la forme d'une monstruosité morte-vivante si je ne le faisais pas. Sa malfaisance ne doit jamais se relever.~
+@20   = ~À vrai dire j'étais enclin à le faire. J'ai trop entendu d'histoires de magiciens maléfiques qui revenaient d'entre les morts sous une forme épouvantable. Mais en fin de compte je n'ai pu m'y résoudre et je l'ai enterré.~
+@21   = ~Grands dieux non ! Même si c'est mon frère, je ne pourrais supporter d'être responsable du retour de sa malfaisance dans notre monde. J'ai enterré le corps et accompli des rites pour empêcher qu'il se relève.~
+@22   = ~Il devrait reposer en paix maintenant, pour autant qu'un homme aussi maléfique puisse trouver le repos. J'espère que son âme échappera aux horreurs des plans inférieurs, mais c'est aux dieux d'en décider.~
+@23   = ~ALors que j'accomplissait les rites, j'ai trouvé sur son corps un petit sac. Il contenait ces gemmes, sans doute obtenues par une de ses actions odieuses. Je souhaite qu'elles vous reviennent parce que vous êtes l'une des personnes les plus nobles que j'ai rencontrées. Puissent-elles vous aider dans votre quête..~
+@24   = ~Eh bien, même si sa conduite haïssable a pris fin, je dois poursuivre mon voyage de pénitence. Je vous dis adieu, <CHARNAME>.~
 @25   = ~La détresse du chirurgien
 
-J'ai de nouveau rencontré le Chirurgien à l'auberge de Brasamical. Il m'a dit que la rivière avait charrié le corps de son frère Davaeorn et il lui a donné les derniers sacrements et une sépulture décente. Espérons que cela sera suffisant et que le mage maléfique ne se relèvera pas en tant que mort-vivant. Le chirurgien m'a ensuite fait ses adieux et est parti pour continuer son voyage de pénitence.~
+J'ai rencontré encore une fois le chirurgien à l'Auberge du Bras Amical. Il m'a dit que la rivière avait amené les corps de son frère Davaeorn et qu'il avait accompli pour lui les derniers rites et une sépulture décente. Espérons que ce sera suffisant et que le magicien maléfique ne reviendra pas comme mort-vivant. Le chirurgien m'a dit au revoir et est parti poursuivre son voyage de pénitent.~

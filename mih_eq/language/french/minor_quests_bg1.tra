@@ -1,34 +1,35 @@
-@0    = ~C'est la dague que l'homme paniqué vous a donnée avant de partir précipitamment. L'arme est bien faite mais a un design archaïque peu commun, et des runes ont été gravées sur la lame ondulée.
+@0    = ~C'est la dague que l'homme paniqué vous a donnée avant de s'enfuir précipitamment. L'arme est de bonne facture mais de conception inhabituelle et archaïque, avec des runes gravées sur sa lame ondulée.
 
-STATISTIQUES :
+PARAMÈTRES :
 
-Capacités de combat :
-- 20% de chance d'ajouter 1d4 points de dégâts de feu
+Capacités de combat :
+- 20 % de chances par coup d'infliger 1d4 points de dégâts de feu
 
-TAC0 : +1
-Dégâts : 1d4 (perçant)
-Facteur de vitesse : 2
-Type de compétence : Dague
-Type : À une main
-Force nécessaire : 3
+TAC0 : +1
+Dégâts : 1d4 (perforant)
+Facteur de vitesse :2
+Type de compétence : dague
+Type : arme à une main
+Nécessite : 3 en Force
 
-Poids : 1~
-@1    = ~Voici la dague de Nester que vous avez récupérée sur l'ankheg qui l'a tué. Une arme de maître; cette dague semble avoir été chérie et entretenue avec soin. Peut-être que si vous la donniez à Quinn, il pourrait faire son deuil.
+Poids : 1~
+@1    = ~C'est la dague appartenant à Nester, que vous avez récupérée sur l'ankheg qui l'a tué. Cette arme de maître semble avoir été appréciée et bien entretenue. Peut-être que si vous la donnez à Quinn, il pourra faire son deuil.
 
-STATISTIQUES :
+PARAMÈTRES :
 
-TAC0 : +1
-Dégâts : 1d4 (perçant)
-Facteur de vitesse : 2
-Type de compétence : Dague
-Type : À une main
-Force nécessaire : 3
+TAC0 : +1
+Dégâts : 1d4 (perforant)
+Facteur de vitesse :2
+Type de compétence : dague
+Type : arme à une main
+Nécessite : 3 en Force
 
-Poids : 1~
-@2    = ~Assassin de mon espèce ! Mourez comme il se doit !~
-@3    = ~Que cherchez-vous ici, <RACE> ? Ces bois anciens ne sont pas un endroit pour votre espèce.~
-@4    = ~Je ne vous veux aucun mal, doux esprit des bois. S'il vous plaît, laissez-moi passer.~
-@5    = ~Hors de mon chemin si vous savez ce qui est bon pour vous !~
-@6    = ~Mm, vous n'êtes pas comme les profanateurs, au moins vous montrez un certain respect. Très bien, je vais tolérer votre présence pour l'instant. Mais vous devriez faire attention à vous !~
-@7    = ~Vous êtes très différent des profanateurs. S'il vous plaît soyez prudent dans ces bois. Tenez, cette potion pourrait vous aider.~
-@8    = ~Venez à moi, animaux de la forêt ! Ensemble, nous allons bannir ces profanateurs de la forêt !~
+Poids : 1~
+// hamadryad
+@2    = ~Meurtrier des miens ! Meurs, tu le mérites !~
+@3    = ~Que recherches-tu ici, <RACE> ? Ces bois anciens ce sont pas un endroit pour ton espèce.~
+@4    = ~Je ne veux de mal à personne, doux esprit des bois. S'il te plaît, laisse-moi passer.~
+@5    = ~Dégage de mon chemin si tu sais ce qui est bon pour toi !~
+@6    = ~Hmm, vous n'êtes pas comme les profanateurs, au moins vous savez faire preuve de respect. Très bien, je tolérerai votre présence pour le moment. Mais attention à ce que vous faites !~
+@7    = ~Vous êtes complètement différents des profanateurs. S'il vous plaît, soyez prudents dans ces bois. Tenez, cette potion pourrait vous aider.~
+@8    = ~À l'aide, animaux de la forêt ! Ensemble, débarrassons les bois de ces profanateurs !~

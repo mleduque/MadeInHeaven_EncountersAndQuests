@@ -1,37 +1,37 @@
-@0    = ~Je t'ai eu, mons... eh, qu'est-ce qui s'est passé ? Et qui êtes-vous ?~
-@1    = ~Doucement, l'ami. Vous avez été pétrifié par un basilic.~
-@2    = ~Je viens de vous éviter d'être un perchoir à pigeons. Une chance d'avoir une récompense ?~
-@3    = ~Pétrifié, hein ? Oui, je me souviens d'une sorte de lézard qui me regardait fixement...~
-@4    = ~Et vous m'avez sauvé ? Merci mon ami, je vous en dois une. Tenez, ce n'est pas grand-chose mais prenez ça.~~Et vous m'avez sauvé ? Merci mon amie, je vous en dois une. Tenez, ce n'est pas grand-chose mais prenez ça.~
-@5    = ~Victimes de la pétrification
-J'ai sauvé un guerrier nain de la pétrification. Il m'a donné une belle récompense.~
-@6    = ~Hmph, je ne peux pas dire que j’apprécie votre attitude, mais je suppose que je vous suis redevable.~
-@7    = ~Très bien, prenez cet or. Bonne chance et au revoir !~
-@8    = ~Victimes de la pétrification
-J'ai sauvé un guerrier nain de la pétrification, mais tout ce qu'il m'a rapporté, ce sont quelques pièces minables !~
-@9    = ~La liberté ! Merci beaucoup, gentil étranger !~
-@10   = ~Ce n'est rien~
-@11   = ~Je ne pouvais pas laisser une jolie jeune fille elfe comme vous rester comme ça pour toujours !~
-@12   = ~Ouais, ouais, peu importe. Une chance d'avoir une récompense pour avoir sauvé votre cul d'elfe ?~
-@13   = ~Tenez, prenez ce parchemin avec ma bénédiction. Je vais m'assurer que tous le monde à la foire apprenne ce que vous avez fait pour moi !~
-@14   = ~Victimes de la pétrification
-J'ai sauvé une jolie jeune fille elfe de la pétrification. Elle était très reconnaissante.~
-@15   = ~Hmph, vous m'avez peut-être sauvé, mais vous êtes carrément grossier ! Très bien, prenez ce parchemin et disparaissez !~
-@16   = ~Victimes de la pétrification
-J'ai sauvé une jolie jeune fille elfe de la pétrification, mais tout ce qu'elle m'a donné, c'est un parchemin minable !~
-@17   = ~Oh mon dieu, vous me faites rougir... Mm...~
+@0    = ~Prépare-toi, mons... euh, qu'est ce qui se passe ? Et qui êtes-vous ?~
+@1    = ~Doucement, l'ami. Un basilic vous avait pétrifié.~
+@2    = ~Je viens de vous sauver d'un destin de perchoir à pigeon. Est-ce que je peux espérer une récompense ?~
+@3    = ~Pétrifié vous dites ? Oui, je me souviens d'une espèce de lézard qui me fixait...~
+@4    = ~Et vous m'avez sauvé ? Merci l'ami, je vous dois une fière chandelle. Tenez, ce n'est pas grand-chose, mais prenez ça.~ ~Et vous m'avez sauvé ? Merci l'amie, je vous dois une fière chandelle. Tenez, ce n'est pas grand-chose, mais prenez ça.~
+@5    = ~Victimes de pétrification
+J'ai libéré un guerrier nain de la pétrification. Il m'a donné une belle récompense.~
+@6    = ~Hm, j'peux pas dire que j'aime votre attitude, mais je suppose que j'ai une dette envers vous.~
+@7    = ~D'accord, prenez cet or. Bonne chance et au revoir !~
+@8    = ~Victimes de pétrification
+J'ai libéré un guerrier nain de la pétrification, mais tout ce que nous avons reçu en récompense, ce sont quelques pièces sans valeur !~
+@9    = ~Libre ! Mille mercis, aimable inconnu !~ ~Libre ! Mille mercis, aimable inconnue !~
+@10   = ~Je vous en prie.~
+@11   = ~Je ne pouvais laisser une jolie elfe comme vous dans cet état pour l'éternité !~
+@12   = ~Ouais, ouais, je m'en fiche. Je peux espérer une récompense vous avoir sauvé vos petites fesses d'elfe ?~
+@13   = ~Voilà, prenez ce parchemin avec ma bénédiction. Je ferai en sorte que le beau peuple entier sache ce que vous avez fait pour moi !~
+@14   = ~Victimes de pétrification
+J'ai libéré une jolie elfe de la pétrification. Elle était vraiment reconnaissante.~
+@15   = ~Hm, vous m'avez sauvée, mais vous êtes franchement grossier ! Très bien, prenez ce parchemin et laissez-moi !~ ~Hm, vous m'avez sauvée, mais vous êtes franchement grossière ! Très bien, prenez ce parchemin et laissez-moi !~
+@16   = ~Victimes de pétrification
+J'ai libéré une jolie elfe de la pétrification, mais tout ce qu'elle m'a donné c'est un parchemin sans valeur !~
+@17   = ~Oh ! Hé bien, vous me faites rougir... Mm...~
 @18   = ~Merci pour le compliment, mais vous n'êtes pas vraiment mon genre.~
-@19   = ~Vous êtes plutôt beau vous-même, vous savez. Que diriez-vous d'un baiser ?~
-@20   = ~Oh-ho, je ne dirai pas non à un baiser d'une jolie elfe !~
-@21   = ~Désolé, mais je ne pense pas que ma partenaire apprécierait.~~Désolée, mais je ne pense pas que mon partenaire apprécierait.~
-@22   = ~Juste un baiser ? J'avais espéré quelque chose de plus...~
-@23   = ~Très bien, fermez les yeux... *SMOUCH*~
-@24   = ~(Elle embrasse bien, et son corps elfique nubile est chaud et doux contre le vôtre, même avec tout votre équipement).~
-@25   = ~Mm, si les circonstances étaient différentes, peut-être que nous pourrions... Mais non, cela devra suffire pour le moment.~
-@26   = ~On regarde, mais on ne touche pas, hein ? C'est dommage, votre partenaire a vraiment de la chance. Bon, alors...~
-@27   = ~Oh mon Dieu, vous êtes un vilain garçon ! Mm, peut-être si les circonstances étaient différentes, mais ce n'est vraiment ni le moment ni l'endroit. Un simple baiser suffira !~
+@19   = ~Vous êtes plutôt beau, vous aussi, vous savez ? Vous voulez un baiser ?~ // male only afaik
+@20   = ~Oh oh, je ne refuserai jamais un baiser d'une jolie elfe !~
+@21   = ~Je suis désolé, mais je ne pense pas que mon amour apprécierait.~ // hard to write without the lover's gender
+@22   = ~Rien qu'un baiser ? J'espérais un peu plus que ça...~
+@23   = ~Allez, fermez les yeux... *SMACK*~
+@24   = ~(Elle embrasse bien et son corps nubile d'elfe est chaud et doux contre le vôtre, même avec tout votre équipement.)~
+@25   = ~Mm, dans d'autre circonstances, on aurait pu... Mais non, il faudra faire avec ça pour le moment.~
+@26   = ~On regarde mais on ne touche pas, hein ? C'est dommage, mais quelqu'un est vraiment chanceux. Tant pis...~
+@27   = ~Ah ! En voilà un coquin ! Mm, peut-être que si les circonstances avaient été différentes, mais ce n'est ni le lieu ni l'heure. Vous devrez vous contenter du baiser !~
 @28   = ~Brundul~
 @29   = ~Ailluin~
-@30   = ~Tu n'es vraiment pas facile, <CHARNAME>...~
+@30   = ~Vous êtes vraiment pénible, <CHARNAME>...~ // firkraag: vouvoiement
 
 
